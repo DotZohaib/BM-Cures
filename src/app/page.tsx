@@ -294,7 +294,7 @@ export default function MedicineOrderingSystem() {
           <div className="flex items-center">
             <ShoppingBag size={28} className="mr-2" />
             <h1 className="text-4xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 drop-shadow-lg">
-              <b className="text-white">MD</b> <span className="italic text-gray-300">Cure</span>
+              <b className="text-white">BM</b> <span className="italic text-gray-300">Cure</span>
             </h1>
           </div>
           
@@ -668,7 +668,7 @@ export default function MedicineOrderingSystem() {
       {/* Footer with WhatsApp contact */}
       <footer className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-3 mt-auto">
   <div className="container mx-auto text-center text-sm space-y-2">
-    <p className="mt-1 text-gray-200">&copy; MBCure. All rights reserved.</p>
+    <p className="mt-1 text-gray-200">&copy; BMCure. All rights reserved.</p>
     <p className="text-gray-200">
       Contact: <strong>Babar Ali Dayo</strong> –&nbsp;
       <a
