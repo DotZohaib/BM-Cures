@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MDCure | Your Trusted Medicine & Healthcare Resource",
-  description: "MDCure provides up-to-date, comprehensive information on prescription drugs, over-the-counter medicines, treatment guidelines, drug interactions, and wellness tips to help you make informed health decisions."
+  title: "BMCure | Your Trusted Medicine & Healthcare Resource",
+  description: "BMCure provides up-to-date, comprehensive information on prescription drugs, over-the-counter medicines, treatment guidelines, drug interactions, and wellness tips to help you make informed health decisions."
 };
 
 
